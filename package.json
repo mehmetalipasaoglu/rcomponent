@@ -21,11 +21,6 @@
   ],
   "author": "Mehmet Ali Pasaogullari (equine)",
   "license": "ISC",
-  "files": [
-    "dist",
-    "LICENSE",
-    "README.md"
-  ],
   "bugs": {
     "url": "https://github.com/mehmetalipasaoglu/rcomponent/issues"
   },
