@@ -1,5 +1,5 @@
 {
-  "name": "@equine/react-s-component",
+  "name": "equine-react-s-component",
   "access":"public",
   "version": "1.0.0",
   "description": "My first package",
