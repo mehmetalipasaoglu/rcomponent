@@ -1,5 +1,5 @@
 {
-  "name": "react-s-component",
+  "name": "@equine/react-s-component",
   "version": "1.0.0",
   "description": "My first package",
   "main": "./dist/cjs/index.js",
