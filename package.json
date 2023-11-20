@@ -1,7 +1,7 @@
 {
-  "name": "component-s",
+  "name": "react-s-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "My first package",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
@@ -12,26 +12,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mehmetalipasaoglu/rcomponent.git"
+    "url": "git+https://github.com/mehmetalipasaoglu/rcomponent.git"
   },
   "keywords": [
     "react",
     "typescript",
     "divider"
   ],
-  "author": "Mehmet Ali Pasaoglu (equine)",
+  "author": "Mehmet Ali Pasaogullari (equine)",
   "license": "ISC",
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
   "bugs": {
     "url": "https://github.com/mehmetalipasaoglu/rcomponent/issues"
   },
   "homepage": "https://github.com/mehmetalipasaoglu/rcomponent#readme",
   "devDependencies": {
     "@types/react": "^18.2.37",
-    "@typescript-eslint/eslint-plugin": "^6.11.0",
-    "@typescript-eslint/parser": "^6.11.0",
-    "eslint": "^8.54.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^5.2.2"
